@@ -1,7 +1,8 @@
 [Desktop Entry]
 Type=Application
 Name=Countdown Timer
-Categories=Utilities
-Exec=/home/king/Python/countdown_clock/cntdwnclk.py
+Categories=GTK;GNOME;Utility;
+Exec=gnome-terminal -- /home/king/Python/countdown_clock/cntdwnclk.sh
 Icon=/home/king/Python/countdown_clock/clock.png
-Terminal=true
+Path=/home/king/Python/countdown_clock/
+Terminal=false
