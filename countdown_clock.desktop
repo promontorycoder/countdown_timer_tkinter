@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Countdown Timer
+Categories=Utilities
+Exec=/home/king/Python/countdown_clock/cntdwnclk.py
+Icon=/home/king/Python/countdown_clock/clock.png
+Terminal=true
