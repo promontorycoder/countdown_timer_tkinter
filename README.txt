@@ -38,4 +38,4 @@ ________________________________________________________________________________
 # Terminal after navigating from within Terminal to the folder you'd like the
 # program folder to be cloned to.
 
-git clone https://github.com/promontorycoder/countdown_timer.git     
+git clone https://github.com/promontorycoder/countdown_timer_tkinter.git     
